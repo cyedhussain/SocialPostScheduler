@@ -8,7 +8,7 @@ const pageTitles :Record <string,string> ={
     "/dashboard" : "Dashboard",
     "/account" : "Social Accounts",
     "/scheduler" : "Post Scheduler",
-    "ai-composer" : "Ai Composer"
+    "/ai-composer" : "Ai Composer"
 
 }
 const Layout = () => {
